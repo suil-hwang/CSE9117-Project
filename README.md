@@ -1,4 +1,4 @@
-# CSE9117 Course Project - Curvature-Adaptive Sampling for CWF
+# CSE9117 Course Project
 
 **Course**: CSE9117 Topics in Computer Graphics (2025 Spring, Hanyang University)
 
